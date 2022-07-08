@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![AppDemo](assets/device-2022-07-08-162909.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
